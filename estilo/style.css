@@ -83,7 +83,7 @@ header {
 /* Centro - Conteudo Principal */
 
 main {
-    height: 93vh;
+    height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -156,4 +156,18 @@ main {
 
 .btns button:hover:before {
     width: 100%;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    color: rgb(251, 255, 0);
 }
