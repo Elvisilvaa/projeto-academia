@@ -172,7 +172,7 @@ footer a:hover {
     color: rgb(251, 255, 0);
 }
 
-@media (min-width: 320px) and (max-width: 600px) {
+@media (min-width: 390px) and (max-width: 600px) {
     .logo {
         padding: 10px;
         font-size: 1.7em;
@@ -181,17 +181,16 @@ footer a:hover {
     }
 }
 
-@media (min-width: 320px) and (max-width: 600px) {
+@media (min-width: 390px) and (max-width: 600px) {
     .header-menu {
         margin-top: 65px;
         margin-left: 20px;
         margin-right: 20px;
-        background-color: blue;
         font-size: 0.4em;
     }
 }
 
-@media (min-width: 320px) and (max-width: 600px) {
+@media (min-width: 390px) and (max-width: 600px) {
     .primary-text {
         font-size: 4.5em;
         width: 50%;
@@ -199,7 +198,7 @@ footer a:hover {
     }
 }
 
-@media (min-width: 320px) and (max-width: 600px) {
+@media (min-width: 390px) and (max-width: 600px) {
     .second-text {
         font-size: 1.8em;
         width: 30%;
@@ -207,7 +206,7 @@ footer a:hover {
     }
 }
 
-@media (min-width: 320px) and (max-width: 600px) {
+@media (min-width: 390px) and (max-width: 600px) {
     .btns {
         font-size: 4em;
         width: 70%;
