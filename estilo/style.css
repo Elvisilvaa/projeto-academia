@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 
+
 /* Fundo-tela */
 
 html {
@@ -170,3 +171,45 @@ footer a {
 footer a:hover {
     color: rgb(251, 255, 0);
 }
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .logo {
+        font-size: 1.5em;
+        position: fixed;
+        text-align: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .header-menu {
+        margin-top: 50px;
+        background-color: blue;
+        font-size: 0.4em;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .primary-text {
+        font-size: 4.5em;
+        width: 50%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .second-text {
+        font-size: 2em;
+        width: 30%;
+        text-align: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .btns {
+        font-size: 4em;
+        width: 70%;
+    }
+}
+
+
+
