@@ -174,7 +174,8 @@ footer a:hover {
 
 @media (min-width: 320px) and (max-width: 600px) {
     .logo {
-        font-size: 1.5em;
+        padding: 10px;
+        font-size: 1.7em;
         position: fixed;
         text-align: center;
     }
@@ -182,7 +183,9 @@ footer a:hover {
 
 @media (min-width: 320px) and (max-width: 600px) {
     .header-menu {
-        margin-top: 50px;
+        margin-top: 65px;
+        margin-left: 20px;
+        margin-right: 20px;
         background-color: blue;
         font-size: 0.4em;
     }
@@ -198,7 +201,7 @@ footer a:hover {
 
 @media (min-width: 320px) and (max-width: 600px) {
     .second-text {
-        font-size: 2em;
+        font-size: 1.8em;
         width: 30%;
         text-align: center;
     }
