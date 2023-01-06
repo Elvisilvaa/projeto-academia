@@ -200,7 +200,7 @@ footer a:hover {
 
 @media (min-width: 390px) and (max-width: 600px) {
     .primary-text {
-        font-size: 4.5em;
+        font-size: 4em;
         width: 50%;
         text-align: center;
     }
@@ -208,7 +208,7 @@ footer a:hover {
 
 @media (min-width: 390px) and (max-width: 600px) {
     .second-text {
-        font-size: 1.8em;
+        font-size: 1.5em;
         width: 30%;
         text-align: center;
     }
@@ -216,8 +216,8 @@ footer a:hover {
 
 @media (min-width: 390px) and (max-width: 600px) {
     .btns {
-        font-size: 4em;
-        width: 70%;
+        font-size: 1em;
+        width: 80%;
     }
 }
 
