@@ -30,8 +30,9 @@ body {
 /* Menu - Header - NavBar */
 
 header {
-    width: 100%;
+    width: 95%;
     height: 7vh;
+    margin: auto;
     background-color: rgba(22, 22, 22, 0.2);
 }
 
