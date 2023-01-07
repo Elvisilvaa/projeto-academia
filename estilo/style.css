@@ -84,7 +84,9 @@ header {
 
 main {
     height: 90vh;
+    width: 90vw;
     display: flex;
+    margin: auto;
     justify-content: center;
     align-items: center;
 }
@@ -226,8 +228,8 @@ footer a:hover {
         position: center;
         margin: 0;
         padding: 0;
-        width: 95vw;
-        height: 95vh;
+        width: 90vw;
+        height: 90vh;
     }
 }
 
