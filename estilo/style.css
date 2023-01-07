@@ -175,23 +175,13 @@ footer a:hover {
     color: rgb(251, 255, 0);
 }
 
-@media (min-width: 370px) and (max-width: 600px) {
+@media (max-width: 380px) {
     .body {
         width: 100%;
-        height: 100%;
     }
 }
 
-@media (min-width: 370px) and (max-width: 600px) {
-    .logo {
-        padding: 10px;
-        font-size: 1.7em;
-        position: fixed;
-        text-align: center;
-    }
-}
-
-@media (min-width: 370px) and (max-width: 600px) {
+@media (max-width: 380px) {
     .header-menu {
         margin-top: 70px;
         margin-left: 20px;
@@ -201,15 +191,15 @@ footer a:hover {
     }
 }
 
-@media (min-width: 370px) and (max-width: 600px) {
+@media (max-width: 380px) {
     .primary-text {
-        font-size: 4em;
-        width: 50%;
+        font-size: 0.4em;
+        width: 100%;
         text-align: center;
     }
 }
 
-@media (min-width: 370px) and (max-width: 600px) {
+@media (max-width: 380px) {
     .second-text {
         font-size: 1.5em;
         width: 30%;
@@ -217,20 +207,19 @@ footer a:hover {
     }
 }
 
-@media (min-width: 370px) and (max-width: 600px) {
+@media (max-width: 380px) {
     .btns {
         font-size: 0.8em;
         width: 80%;
     }
 }
 
-@media (min-width: 370px) and (max-width: 600px) {
+@media (max-width: 380px) {
     .main-content {
-        position: center;
-        margin: 0;
-        padding: 0;
-        width: 90vw;
-        height: 90vh;
+        width: 100%;
+        font-size: 0.4em;
+        margin: auto;
+        text-align: center;
     }
 }
 
